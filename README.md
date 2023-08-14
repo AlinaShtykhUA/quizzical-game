@@ -1,3 +1,9 @@
+
+
+https://github.com/AlinaShtykhUA/quizzical-game/assets/39155762/524d749e-f690-4f67-a43f-ccc8b44527e1
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
